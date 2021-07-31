@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @rdrgbaioco
+- My hobbies are learning kotlin and editing some things in Adobe Illustrator 😆
+- 🌱  I’m currently learning Kotlin for mobile...
+- 💞️ I’m looking to collaborate on Kotlin projects and Lenovo Legion 5i (my laptop)...
+- 📫 rdrgbaioco@gmail.com for contact ...
+
+<!---
+rdrgbaioco/rdrgbaioco
+--->
