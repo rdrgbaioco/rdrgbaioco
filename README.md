@@ -1,8 +1,12 @@
 
 ### Follow Me:
 <div>
-<img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/linkedin-original.svg" alt="https://www.linkedin.com/in/samuel-rodrigo-baioco" width="60" height="60"/>&nbsp;
-<img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/instagram-original.svg" alt="https://www.instagram.com/rdrgbaioco" width="60" height="60"/>&nbsp;
+<a href="https://www.linkedin.com/in/samuel-rodrigo-baioco">
+<img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>&nbsp;
+</a>
+<a href="https://www.instagram.com/rdrgbaioco">
+<img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/instagram-original.svg" alt="Instagram" width="60" height="60"/>&nbsp;
+</a>
 </div>
 [![Linkedin](https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/linkedin-original.svg)](https://www.linkedin.com/in/samuel-rodrigo-baioco/) 
 ### :hammer_and_wrench: Languages and tools that I have some affinity:
