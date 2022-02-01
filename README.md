@@ -10,6 +10,9 @@
 </a>
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rdrgbaioco&theme=dark)](https://git.io/streak-stats)
+
 ### :hammer_and_wrench: Languages and tools that I have some affinity:
 <div>
   <img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
