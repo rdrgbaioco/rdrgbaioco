@@ -1,5 +1,5 @@
 
-### How to reach me: 
+### Follow Me:
 <div>
 <img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="60" height="60"/>&nbsp;
 <img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/instagram-original.svg" title="Instagram" alt="Instagram" width="60" height="60"/>&nbsp;
