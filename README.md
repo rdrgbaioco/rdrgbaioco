@@ -1,8 +1,5 @@
 ![alt text](https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/hello.png?raw=true)
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rdrgbaioco&theme=dark)](https://git.io/streak-stats)
-
 ### Follow Me:
 <div>
 <a href="https://www.linkedin.com/in/samuel-rodrigo-baioco">
@@ -12,6 +9,9 @@
 <img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/instagram-original.svg" alt="Instagram" width="60" height="60"/>&nbsp;
 </a>
 </div>
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rdrgbaioco&theme=dark)](https://git.io/streak-stats)
 
 
 ### :hammer_and_wrench: Languages and tools that I have some affinity:
