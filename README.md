@@ -15,7 +15,7 @@
 
 
 ### :hammer_and_wrench: Languages and tools that I have some affinity:
-<img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/programing.gif?raw=true" class="center"/>
+<img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/programing.gif?raw=true" class="aligncenter"/>
 <div>
   <img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
