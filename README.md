@@ -15,7 +15,6 @@
 
 
 ### :hammer_and_wrench: Languages and tools that I have some affinity:
-![alt text](https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/programing.gif?raw=true)
 <img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/programing.gif?raw=true" class="center"/>
 <div>
   <img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
