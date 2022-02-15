@@ -1,4 +1,9 @@
 ![alt text](https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/hello.png?raw=true)
+<div>
+  <a href="https://github.com/rdrgbaioco">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdrgbaioco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrgbaioco&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ### Follow Me:
 <div>
@@ -10,10 +15,6 @@
 </a>
 </div>
 
-<div>
-<a href="https://www.linkedin.com/in/samuel-rodrigo-baioco">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrgbaioco&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rdrgbaioco&theme=dark)](https://git.io/streak-stats)
