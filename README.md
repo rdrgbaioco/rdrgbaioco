@@ -8,6 +8,7 @@
 <a href="https://www.instagram.com/rdrgbaioco">
 <img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/instagram-original.svg" alt="Instagram" width="60" height="60"/>&nbsp;
 </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrgbaioco&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### :fire: My Stats :
