@@ -3,7 +3,7 @@
   <a href="https://github.com/rdrgbaioco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdrgbaioco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rdrgbaioco&theme=dark"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrgbaioco&show_icons=true&theme=dark&langs_count=10"/>
+  <img height="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrgbaioco&show_icons=true&theme=dark&langs_count=10"/>
 </div>
 
 ### Follow Me:
