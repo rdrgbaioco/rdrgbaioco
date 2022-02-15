@@ -2,7 +2,17 @@
 <div>
   <a href="https://github.com/rdrgbaioco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdrgbaioco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrgbaioco&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrgbaioco&show_icons=true&layout=compact&theme=dark&langs_count=10"/>
+</div>
+
+### Follow Me:
+<div>
+<a href="https://www.linkedin.com/in/samuel-rodrigo-baioco">
+<img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>&nbsp;
+</a>
+<a href="https://www.instagram.com/rdrgbaioco">
+<img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/instagram-original.svg" alt="Instagram" width="60" height="60"/>&nbsp;
+</a>
 </div>
 
 
