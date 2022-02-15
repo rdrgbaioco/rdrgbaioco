@@ -3,6 +3,7 @@
   <a href="https://github.com/rdrgbaioco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdrgbaioco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrgbaioco&show_icons=true&layout=compact&theme=dark&langs_count=10"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rdrgbaioco&theme=dark"/>
 </div>
 
 ### Follow Me:
@@ -14,11 +15,6 @@
 <img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/instagram-original.svg" alt="Instagram" width="60" height="60"/>&nbsp;
 </a>
 </div>
-
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rdrgbaioco&theme=dark)](https://git.io/streak-stats)
-
 
 ### :hammer_and_wrench: Languages and tools that I have some affinity:
 <img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/programing.gif?raw=true" class="aligncenter"/>
