@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/rdrgbaioco">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrgbaioco&show_icons=true&layout=compact&theme=dark&langs_count=8&hide_border"/>
-  <img height="160" src="https://github-readme-streak-stats-2.herokuapp.com?user=rdrgbaioco&theme=github-dark&hide_border&date_format=j%20M%5B%20Y%5D"/>
+  <img height="160" src="https://github-readme-streak-stats-2.herokuapp.com?user=rdrgbaioco&theme=github-dark&hide_border&date_format=j%20M%5B%20Y%5D&sideLabels=47C5FB&sideNums=47C5FB&currStreakNum=47C5FB&currStreakLabel=47C5FB"/>
 </div>
 
 ### :hammer_and_wrench: Languages and tools that I have some affinity:
