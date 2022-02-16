@@ -1,7 +1,7 @@
 ![alt text](https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/hello.png?raw=true)
 <div>
   <a href="https://github.com/rdrgbaioco">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrgbaioco&show_icons=true&layout=compact&theme=dark&langs_count=8&hide_border"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrgbaioco&show_icons=true&layout=compact&theme=dark&langs_count=8&border_color=47C5FB"/>
   <img height="160" src="https://github-readme-streak-stats-2.herokuapp.com?user=rdrgbaioco&theme=github-dark&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=47C5FB&ring=47C5FB&fire=47C5FB&dates=00569E&sideLabels=47C5FB&sideNums=47C5FB&currStreakNum=47C5FB&currStreakLabel=47C5FB&border=47C5FB"/>
 </div>
 
