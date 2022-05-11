@@ -5,7 +5,7 @@
   <img height="160" src="https://github-readme-streak-stats-2.herokuapp.com?user=rdrgbaioco&theme=dark&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
-### :hammer_and_wrench: Languages and tools that I have some affinity:
+### :hammer_and_wrench: Languages and tools that I have some affinity for or want to learn:
 
 <div>
   <img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/dart-original.svg" title="Dart" alt="Dart" width="65" height="65"/>&nbsp;
