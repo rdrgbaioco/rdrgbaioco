@@ -7,7 +7,7 @@
   <img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/flutter-original.svg" title="Flutter" alt="Flutter" width="65" height="65"/>&nbsp;
 </div>
 
-<img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/programing.gif?raw=true" class="aligncenter" height="640" width="1280"/>
+<img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/programing.gif?raw=true" class="aligncenter" height="360" width="480"/>
 
 
 ### Follow Me:
