@@ -10,12 +10,6 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rdrgbaioco/)
 
 
-### Plataforms:
-![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
 ### :hammer_and_wrench: Skills:
 
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -35,22 +29,23 @@
 ![Python Badge](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
+![Adobe Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Badge](	https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva Badge](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Badge](https://img.shields.io/badge/-Adobe_Illustrator-ff9a00?style=flat-square&labelColor=330000&logo=adobe&logoColor=yellow)
+
+### Plataforms:
+![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### :hammer_and_wrench: My Setup:
 
+![Lenovo Badge](https://img.shields.io/badge/Lenovo-Legion_5i-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white)
 ![Intel Badge](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Nvidia Badge](https://img.shields.io/badge/NVIDIA-RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Lenovo Badge](https://img.shields.io/badge/Lenovo-Legion_5i-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white)
 
-<div>
-  <img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/dart-original.svg" title="Dart" alt="Dart" width="65" height="65"/>&nbsp;
-  <img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/flutter-original.svg" title="Flutter" alt="Flutter" width="65" height="65"/>&nbsp;
-</div>
-
-<img src="https://github.com/rdrgbaioco/rdrgbaioco/blob/main/images/programing.gif?raw=true" class="aligncenter" height="360" width="480"/>
 
 
 
