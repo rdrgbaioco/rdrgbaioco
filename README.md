@@ -6,8 +6,8 @@
 
 ## Follow Me:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rodrigo-baioco/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rdrgbaioco/)
+[![Linkedin Badge](https://img.shields.io/badge/Samuel_R._Baioco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rodrigo-baioco/)
+[![Instagram Badge](https://img.shields.io/badge/RDRG-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rdrgbaioco/)
 
 
 ### :hammer_and_wrench: Skills:
