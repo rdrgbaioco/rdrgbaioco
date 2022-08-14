@@ -19,10 +19,13 @@
 ![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JWT Badge](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
+### :hammer_and_wrench: I am learning
+
+![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-7f52ff?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### :hammer_and_wrench: Other Tools I've Used, Or Use...
 
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-7f52ff?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Golang Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
