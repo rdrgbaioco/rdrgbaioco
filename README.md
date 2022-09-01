@@ -21,13 +21,13 @@
 
 ### :hammer_and_wrench: I am learning
 
-![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7f52ff?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### :hammer_and_wrench: Other Tools I've Used, Or Use...
 
 ![Python Badge](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Golang Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ![Adobe Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
