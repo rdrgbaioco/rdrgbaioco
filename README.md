@@ -21,7 +21,7 @@
 
 ### :hammer_and_wrench: I am learning
 
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-7f52ff?&style=for-the-badge&logo=kotlin&logoColor=white)
+![CSharp Badge](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### :hammer_and_wrench: Other Tools I've Used, Or Use...
 
