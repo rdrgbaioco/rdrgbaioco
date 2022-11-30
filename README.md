@@ -1,6 +1,7 @@
 ## Hi
 
-**I'm Samuel R. Baioco**. I'm currently developer mobile / desktop with Flutter, and API with Dart language. 
+**I'm Samuel R. Baioco**. I'm currently a mobile/desktop developer with Dart - Flutter,
+and also backend APIs with C# (.NET Core) and Dart.
 
 ### If the only tool you have is a hammer, **you tend to see every problem as a nail** - **Abrahan Maslow**
 
@@ -24,26 +25,11 @@
 
 ![dotNET Badge](https://img.shields.io/badge/.NET%20Core-5c2d91?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### :hammer_and_wrench: Other tools I used or used (very little)...
-
-![Python Badge](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Golang Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### :hammer_and_wrench: Design tools
-
-![Adobe Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Badge](	https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva Badge](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
 ### Plataforms:
 
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### My Setup:
 
