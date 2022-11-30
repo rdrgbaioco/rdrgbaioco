@@ -1,9 +1,6 @@
 ## Hi
 
-**I'm Samuel R. Baioco**. I'm currently a mobile/desktop developer with Dart - Flutter,
-and also backend APIs with C# (.NET Core) and Dart.
-
-### If the only tool you have is a hammer, **you tend to see every problem as a nail** - **Abrahan Maslow**
+**I'm currently a mobile/desktop developer with Dart - Flutter, and also backend APIs with C# (.NET Core) and Dart**.
 
 ## Follow Me:
 
@@ -38,7 +35,7 @@ and also backend APIs with C# (.NET Core) and Dart.
 ![Nvidia Badge](https://img.shields.io/badge/NVIDIA-RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
-
+#### If the only tool you have is a hammer, **you tend to see every problem as a nail** - **Abrahan Maslow**
 
 <!---
 rdrgbaioco/rdrgbaioco
