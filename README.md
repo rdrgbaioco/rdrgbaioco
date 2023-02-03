@@ -20,7 +20,7 @@
 
 ### :hammer_and_wrench: I am learning
 
-![dotNET Badge](https://img.shields.io/badge/.NET%20Core-5c2d91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 ### Plataforms:
 
