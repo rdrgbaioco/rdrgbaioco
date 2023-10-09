@@ -13,13 +13,14 @@
 ![Flutter Badge](https://img.shields.io/badge/Flutter-2cb7f6?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![CSharp Badge](https://img.shields.io/badge/c%23-5c2d91?style=for-the-badge&logo=c-sharp&logoColor=white)
-![dotNET Badge](https://img.shields.io/badge/.NET%20Core-5c2d91?style=for-the-badge&logo=dotnet&logoColor=white)
+![dotNET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Visual Code Badge](https://img.shields.io/badge/Visual%20Studio-5c2d91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![JWT Badge](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
 ### :hammer_and_wrench: I am learning
 
+![TS Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 ### Plataforms:
