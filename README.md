@@ -1,6 +1,6 @@
 ## Hi
 
-**I'm currently a mobile developer with Dart/Flutter and backend APIs with C# (.NET Core) and PostgreSQL or Firebase / Supabase.
+**I'm currently a mobile developer with Dart/Flutter and backend APIs with C# (.NET Core) and PostgreSQL or Firebase / Supabase.**
 
 ## Follow Me:
 
